@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "5dc45af5b623f95248e3bbe5",
+    "name": "João da Silva",
+    "email": "joao@email.com",
+    "cpf": "034.045.155-67",
+    "password": "$2b$10$28HIwd1leXFieg3jAxR8NewyzimJ3ePPc8ujrBSNLoCPbaxLKipnS",
+    "createdAt": "2019-11-07T17:57:09.799Z",
+    "__v": 0
+  },
+  {
+    "_id": "5dc46107b623f95248e3bbe6",
+    "name": "José Batista Almeida",
+    "email": "jose@email.com",
+    "cpf": "023-596.355-78",
+    "password": "$2b$10$rZZMTaHbSlQmlym8YDUI0uLIv3rL0/NRB6dd3jERz/h6bkfi8h.O6",
+    "createdAt": "2019-11-07T18:23:03.499Z",
+    "__v": 0
+  },
+  {
+    "_id": "5dc46139b623f95248e3bbe7",
+    "name": "Maria Joaquina",
+    "email": "maria@email.com",
+    "cpf": "342.987.122-55",
+    "password": "$2b$10$8JAIL7B3leC0Of8..LSE3.1zj7Yj8VY8n9QL96UAAq0yndiN52h7G",
+    "createdAt": "2019-11-07T18:23:53.695Z",
+    "__v": 0
+  },
+  {
+    "_id": "5dc46166b623f95248e3bbe8",
+    "name": "Camila Pereira",
+    "email": "camila@email.com",
+    "cpf": "627.956.370-73",
+    "password": "$2b$10$7GC4TLHarMbGbaWWJm2G.Ok9Xo60YabHOEQEtaogrth2Aw6utyw..",
+    "createdAt": "2019-11-07T18:24:38.719Z",
+    "__v": 0
+  },
+  {
+    "_id": "5dc461a6b623f95248e3bbe9",
+    "name": "Carolina Batista ",
+    "email": "carol@email.com",
+    "cpf": "566.877.024-88",
+    "password": "$2b$10$XgVAiBVcuAr26MvcPelRcuRKtMLdbhj2D4L1tHUCwJfznPCTHLIim",
+    "createdAt": "2019-11-07T18:25:42.690Z",
+    "__v": 0
+  },
+  {
+    "_id": "5dc461dcb623f95248e3bbea",
+    "name": "Jhonny Vrum",
+    "email": "jhonny@email.com",
+    "cpf": "784.917.209-44",
+    "password": "$2b$10$h3z7N3/L1IzhuBbNQlRIYe9dXgEsOxeP/EC5.8he2PaoDlBqvOXWG",
+    "createdAt": "2019-11-07T18:26:36.904Z",
+    "__v": 0
+  },
+  {
+    "_id": "5dc4621ab623f95248e3bbeb",
+    "name": "Carla Flor",
+    "email": "carla@email.com",
+    "cpf": "455.877.587-21",
+    "password": "$2b$10$KEiUPQXPMO7MzdMFa4g5NeqmndKQWnHnwTk0cpJSA1WPWjLJ6HUq6",
+    "createdAt": "2019-11-07T18:27:38.474Z",
+    "__v": 0
+  }
+]
